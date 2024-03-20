@@ -34,7 +34,7 @@ Installation
 
     bash
 
-git clone https://github.com/your-username/ai-summarizer.git
+git clone https://github.com/kushhhhhhhh/ai-summarizer.git
 
 Navigate to the project directory:
 
