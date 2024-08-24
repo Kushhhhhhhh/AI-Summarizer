@@ -1,69 +1,56 @@
-# AI Summarizer
+# AI Summarizer 
 
-Welcome to AI Summarizer, a powerful tool designed to save you time and provide concise summaries for news articles. This project leverages advanced artificial intelligence techniques to analyze news articles and generate brief, informative summaries. Read on to discover how you can integrate this tool into your daily routine.
-Table of Contents
+## Summarize news articles effortlessly with our free AI Summarizer. Just paste the link and get concise, helpful summaries instantly. 
 
-```
-    Introduction
-    Features
-    Getting Started
-        Prerequisites
-        Installation
-    Usage
-    Demo
-    Contributing
-    License
-```
+![ai-sumz](https://github.com/user-attachments/assets/ef1e34c0-7abb-4216-9ddb-eb2a8188136d)
 
-## Introduction
 
-AI Summarizer is a project that aims to simplify your information consumption process. By providing a news article link, you can quickly obtain a summarized version, allowing you to grasp the key points without investing extensive time in reading the entire article. This tool is ideal for staying informed in a fast-paced world.
-Features
-```
-    Efficient Summarization: Quickly generates concise summaries from news articles.
-    Time-saving: Helps you understand the main points without reading the entire article.
-    User-friendly Interface: Intuitive design for a seamless user experience.
-```
+## Key Features:
+🌟 Tech Stack: React + Redux + AI Integration 
 
-## Getting Started
-Prerequisites
-```
-Installation
+🔮 AI-Powered Summaries: Cutting-edge AI for concise news analysis
 
-    Clone the repository:
+🎒 Efficient Design: Tailwind CSS for a sleek, responsive interface
 
-    bash
+📍 Enhanced Productivity: Save time with accurate news summaries
 
-git clone https://github.com/kushhhhhhhh/ai-summarizer.git
 
-Navigate to the project directory:
 
-bash
+## Installation and Setup:
 
-cd ai-summarizer
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/Kushhhhhhhh/AI-Summarizer.git
+    ```
 
-Install the required dependencies:
+2. Navigate to the project directory:
+    ```bash
+    cd AI-Summarizer
+    ```
 
-```
+3. Install the dependencies:
+    ```bash
+    npm install
+    # or
+    yarn install
+    # or
+    pnpm install
+    # or
+    bun install
+    ```
 
-## Usage
-```
+4. Set up environment variables:
+    Create a `.env` file in the root directory and add the necessary environment variables like API Key.
 
-   Run the application:
+5. Run the development server:
+    ```bash
+    npm run dev
+    # or
+    yarn dev
+    # or
+    pnpm dev
+    # or
+    bun dev
+    ```
 
-    Access the tool through your web browser.
-    Input the news article link you want to summarize.
-    Receive a quick and informative summary.
-```
-
-## Demo
-
-Caption: See a quick demo of AI Summarizer in action.
-## Contributing
-
-We welcome contributions from the community. If you'd like to enhance features, fix bugs, or propose new ideas, please follow our Contribution Guidelines.
-License
-
-This project is licensed under the MIT License.
-
-Save time and stay informed with AI Summarizer! If you encounter any issues or have suggestions, please let us know in the Issue Tracker.
+6. Open [http://localhost:5173](http://localhost:5173) with your browser to see the result.
