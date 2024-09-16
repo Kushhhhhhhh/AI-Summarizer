@@ -6,13 +6,16 @@
 
 
 ## Key Features:
-🌟 Tech Stack: React + Redux + AI Integration 
 
-🔮 AI-Powered Summaries: Cutting-edge AI for concise news analysis
+🔮 AI-Powered Summaries: Utilizes advanced AI algorithms to generate concise summaries of news articles, providing quick insights and saving time.
 
-🎒 Efficient Design: Tailwind CSS for a sleek, responsive interface
+🖋️ User Interaction: Users can copy and paste a news article link into the application, which processes and displays a summarized version almost instantly.
 
-📍 Enhanced Productivity: Save time with accurate news summaries
+📚 History Tracking: Allows users to view and manage previously summarized articles, making it easy to access and track past summaries.
+
+🎨 Efficient Design: Built with Tailwind CSS for a sleek, modern, and responsive interface that enhances user experience.
+
+⚙️ State Management: Uses Redux for effective state management, ensuring smooth operation and responsiveness of the application.
 
 
 
